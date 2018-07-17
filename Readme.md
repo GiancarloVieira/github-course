@@ -1,5 +1,7 @@
 # Git Course
 
-Este ŕ um repositório teste para ensinar.
+Este é um repositório teste para ensinar.
 
-Saiba mais no linl ...
+Saiba mais no link ..
+
+Gostou do curso
